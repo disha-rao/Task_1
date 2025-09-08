@@ -1,5 +1,5 @@
 # Task_1
-This is Java Task 1
+
 📚 Library Management System (Java)
 A simple console-based library management system written in Java. It allows users to add, issue, return, and view books in a library. It also includes JUnit tests to verify core book borrowing functionality.
 
